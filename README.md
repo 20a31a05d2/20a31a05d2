@@ -1,5 +1,5 @@
 
-HI I AM SRI DURGA BHAVANI:
+HI :wave: I AM SRI DURGA BHAVANI <br>
 :star:I'm currently learning DSA<br>:sparkles:I'm looking to collaborate on python projects<br>:sparkles:Ask me about python programming<br>:smile:Fun Fact "Programming is the art of turning caffeine into code, one bug at a time"<br>
 
 
