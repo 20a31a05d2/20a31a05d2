@@ -1,6 +1,6 @@
 
 HI :wave: I AM SRI DURGA BHAVANI <br>
-![]([https://github.com/20a31a05d2/codinggiphy.gif](https://github.com/20a31a05d2/20a31a05d2/blob/main/coding%20giphy.gif))<br>
+![](https://github.com/20a31a05d2/codinggiphy.gif)
 :notebook:I'm currently learning DSA<br>:sparkles:I'm looking to collaborate on python projects<br>:sunglasses:Ask me about python programming<br>:smile:Fun Fact "Programming is the art of turning caffeine into code, one bug at a time"<br>
 
 
