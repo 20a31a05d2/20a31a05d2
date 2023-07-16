@@ -1,4 +1,4 @@
-# Sri Durga Bhavani Bandaru
+
 <h1 align="center">Hi 👋, I'm Sri Durga Bhavani Bandaru</h1>
 <p> <img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="no" width="350px" height="300px"> </p>
 <p> - 🧑‍🎓 I'm currently pursuing my BTech CSE at Pragati Engineering College </p>
