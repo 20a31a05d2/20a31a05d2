@@ -1,9 +1,6 @@
 # Sri Durga Bhavani Bandaru
 <h1 align="center">Hi 👋, I'm Sri Durga Bhavani Bandaru</h1>
-Here are some ideas to get you started:
-
-<p> <img align="right" src="https://i.gifer.com/JXA0.gif" alt="no" width="450px" height="300px"> </p>
-
+<p> <img align="right" src="https://i.gifer.com/JXA0.gif" alt="no" width="350px" height="300px"> </p>
 <p> - 🧑‍🎓 I'm currently pursuing my BTech CSE at Pragati Engineering College </p>
 <p> - 👀 I'm interested in Python Programming </p>
 <p> - 🌱 I’m currently learning DSA </p>
